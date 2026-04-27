@@ -3,6 +3,6 @@
     "@anthropic-ai/sdk": "^0.91.1"
   },
   "scripts": {
-    "build": "echo 'skip build'"
+    "build": "echo \"No build step\""
   }
 }
